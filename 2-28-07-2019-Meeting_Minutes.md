@@ -1,4 +1,4 @@
-<h1>Meeting Minutes<h1>
+<h1>Meeting Minutes</h1>
 
 **21st July 2019 18:00 UTC**
 
