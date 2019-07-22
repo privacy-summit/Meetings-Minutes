@@ -5,6 +5,7 @@
 **Place:** Jitsi
 
 **Attendees:**
+
 johnB  
 numecca  
 midipoet  
