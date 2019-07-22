@@ -1,13 +1,13 @@
-#Meeting Minutes
+<h1>Meeting Minutes<h1>
 
-21st July 2019 18:00 UTC
+**21st July 2019 18:00 UTC**
 
-Place: Jitsi
+**Place:** Jitsi
 
-Attendees: 
-johnB
-numecca
-midipoet
+**Attendees:**
+johnB  
+numecca  
+midipoet  
 
 
 - Item 1:
