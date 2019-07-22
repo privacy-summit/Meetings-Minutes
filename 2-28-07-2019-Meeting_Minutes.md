@@ -11,14 +11,14 @@ midipoet
 
 
 - Item 1:
-privacyseries.org domain, server, and gmail account are now transferred to midipoet. 
+privacyseries.org domain, server, and gmail account are now transferred to *midipoet*. 
 
 - Item 2:
-Numeccca suggested a video image background for site landing page. All agreed. 
-Idea put forward for another Big World genre video, with a narrator driving it with associated images going along w/ what's being said.
+Numeccca suggested a video image background for site landing page. All agreed.   
+Idea put forward for a Big World genre video/trailer, with a narrator driving it with associated images going along w/ what's being said.
 midipoet agreed to write script.
 Around 90 seconds long. 
-Like a trailer.
+Like a trailer for the initiative.
 Big World genre. 
 
 - Item 3:
