@@ -2,15 +2,16 @@
 
 **21st July 2019 18:00 UTC**
 
-**Place:** Jitsi
+**Place:**  
+Jitsi
 
-**Attendees:**
-
+**Attendees:**  
 johnB  
 numecca  
 midipoet  
 
 
+**Meeting Items:**  
 - Item 1:
 privacyseries.org domain, server, and gmail account are now transferred to *midipoet*. 
 
